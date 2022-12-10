@@ -13,7 +13,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "firebase": "^6.2.0",
     "three-full": "^17.1.0",
     "vue": "^2.6.6",
